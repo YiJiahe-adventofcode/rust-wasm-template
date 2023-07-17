@@ -1,5 +1,5 @@
 [package]
-name = "Advent of Code WASM Template"
+name = "advent_of_code_wasm_template"
 version = "0.1.0"
 authors = ["yijiahe <yi.jiahe00@gmail.com>"]
 edition = "2018"
