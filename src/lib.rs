@@ -7,7 +7,7 @@ extern "C" {
     fn alert(s: &str);
 }
 
-#[wasm_bindgen]
-pub fn greet() {
-    alert("Hello, test!");
-}
+mod year_2019;
+
+
+
